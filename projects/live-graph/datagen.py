@@ -21,7 +21,7 @@ while True:
         csv_writer = csv.DictWriter(csv_file, fieldnames=attributes)
 
         info = {
-            "x_value": x_value,
+            "Time": x_value,
             "lane_1": total_1,
             "lane_2": total_2,
             "lane_3": total_3,
