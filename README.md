@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=1000px height=400px src="assets/pythonSource.png" alt="Project logo"></a>
+ <img width=1000px height=600px src="assets/pythonSource.png" alt="Project logo"></a>
 </p>
 
 <h2 align="center">Python Projects</h2>
@@ -50,11 +50,12 @@ Feel free to check [issues page](https://github.com/mahimai-raja/open-source-pyt
     ```
 
 - Create a folder in
-  [projects directory](https://github.com/mahimai-raja/open-source-python-projects-2023/projects)
+  [projects directory](https://github.com/mahimai-raja/open-source-python-projects-2023/tree/main/projects)
   according to issue name.
 - Write your code and add to the respective folder in the projects directory, locally.
 - Don't forget to add a `README.md` in your folder, according to the
-   [README_TEMPLATE.](https://github.com/mahimai-raja/open-source-python-projects-2023/README_TEMPLATE.md)
+   [README_TEMPLATE.](https://github.com/mahimai-raja/open-source-python-projects-2023/tree/main/README_TEMPLATE.md)
+
 - Add the changes with `git add`, `git commit` ([write a good commit message](https://chris.beams.io/posts/git-commit/), if possible):
 
     ```bash
@@ -72,12 +73,10 @@ Feel free to check [issues page](https://github.com/mahimai-raja/open-source-pyt
 
 ## README Template for scripts
 
-[README Template](https://github.com/mahimai-raja/open-source-python-projects-2023/README_TEMPLATE.md)
+[README Template](https://github.com/mahimai-raja/open-source-python-projects-2023/tree/main/README_TEMPLATE.md)
 
 ## Contributors ✨
 
 SR No   | Project | Author  
 --- | --- | ---
 1 | [Live Graph](https://github.com/mahimai-raja/open-source-python-projects-2023/projects/live-graph) | [iKurious](https://github.com/mahimai-raja)
-
-
