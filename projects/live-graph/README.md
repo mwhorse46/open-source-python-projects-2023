@@ -17,7 +17,7 @@ python liveplot.py
 ### Sample Output :
 <!--Remove the below lines and add yours -->
 
-<img src="livegraph.gif">
+<img src="livegraph.gif" width="700px" height="500px">
 
 ## TODO :
 - To set limit for x axis so that it looks dynamic on more datapoints.
