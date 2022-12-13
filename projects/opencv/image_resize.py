@@ -1,0 +1,12 @@
+import cv2
+print("Welcome to Image resizer\n")
+adrs = input("Enter the path to the image\n")
+img = cv2.imread(adrs, -1)
+print("Enter the pixel values:")
+x = int(input())
+y = int(input())
+img = cv2.resize(img ,(x,y))
+cv2.imwrite('Resized_image.jpg',img)
+cv2.imshow('image', img)
+cv2.waitKey(0)
+cv2.destroyAllWindows()
