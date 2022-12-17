@@ -79,4 +79,6 @@ Feel free to check [issues page](https://github.com/mahimai-raja/open-source-pyt
 
 SR No   | Project | Author  
 --- | --- | ---
-1 | [Live Graph](https://github.com/mahimai-raja/open-source-python-projects-2023/projects/live-graph) | [iKurious](https://github.com/mahimai-raja)
+01 | [Live Graph](https://github.com/mahimai-raja/open-source-python-projects-2023/projects/live-graph) | [iKurious](https://github.com/mahimai-raja)
+02 |[Twitter Bot](https://github.com/mahimai-raja/open-source-python-projects-2023/projects/twitter-bot) | [Abylin Johnson](https://github.com/abylinjohnson)
+03 | [Live Graph](https://github.com/mahimai-raja/open-source-python-projects-2023/projects/ml-api) | [iKurious](https://github.com/mahimai-raja)
