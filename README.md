@@ -82,3 +82,4 @@ SR No   | Project | Author
 01 | [Live Graph](https://github.com/mahimai-raja/open-source-python-projects-2023/tree/main/projects/live-graph) | [iKurious](https://github.com/mahimai-raja)
 02 |[Twitter Bot](https://github.com/mahimai-raja/open-source-python-projects-2023/tree/main/projects/twitter-bot) | [Abylin Johnson](https://github.com/abylinjohnson)
 03 | [ML Api](https://github.com/mahimai-raja/open-source-python-projects-2023/tree/main/projects/ml-api) | [iKurious](https://github.com/mahimai-raja)
+04 |[Socket Programming](https://github.com/mahimai-raja/open-source-python-projects-2023/tree/main/projects/socket-programming) | [Abylin Johnson](https://github.com/abylinjohnson)
