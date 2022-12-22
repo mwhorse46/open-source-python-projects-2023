@@ -84,5 +84,4 @@ SR No   | Project | Author
 03 | [ML Api](https://github.com/mahimai-raja/open-source-python-projects-2023/tree/main/projects/ml-api) | [iKurious](https://github.com/mahimai-raja)
 04 |[Socket Programming](https://github.com/mahimai-raja/open-source-python-projects-2023/tree/main/projects/socket-programming) | [Abylin Johnson](https://github.com/abylinjohnson)
 05 | [Transcription API (DNA)](https://github.com/mahimai-raja/open-source-python-projects-2023/tree/main/projects/dna-trancription-api) | [Mahimai Raja J](https://github.com/mahimai-raja)
-
-projects/dna-trancription-api
+06 |[Sms from Raspberry Pi](https://github.com/mahimai-raja/open-source-python-projects-2023/tree/main/projects/sms-from-raspberry-pi) | [Abylin Johnson](https://github.com/abylinjohnson)
