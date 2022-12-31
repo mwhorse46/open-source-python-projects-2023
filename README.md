@@ -1,9 +1,4 @@
-<p align="center">
-  <a href="" rel="noopener">
- <img width=1000px height=600px src="assets/pythonSource.png" alt="Project logo"></a>
-</p>
-
-<h2 align="center">Python Projects</h2>
+<h1 align="center">Python Projects</h1>
 
 <div align="center">
 
